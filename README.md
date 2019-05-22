@@ -2,7 +2,7 @@
 A tip calculator that will split a bill provided the bill total amount, tip, and party size.
 To run this application, import into Android Studio.
 
-Alternitive if importing is not working...
+alternatively if importing is not working...
 
 Find your Android Studio folder
 Unzip this app file
